@@ -1,0 +1,53 @@
+﻿  main.cpp
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(45): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(121): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(220): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(226): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(332): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(334): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(340): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(342): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(347): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(382): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(389): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(396): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(403): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(412): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(414): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(415): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(416): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(418): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(419): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(424): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(426): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(427): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(428): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(430): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(431): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(437): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(439): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(440): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(441): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(443): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(444): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(449): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(451): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(452): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(453): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(455): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(456): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(473): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(473): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(474): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+d:\studies\masters\sem_4\dm6121\assignment2_v2\assignment2_v2\assignment2_v2\main.cpp(474): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Assignment2_v2.vcxproj -> D:\Studies\Masters\Sem_4\DM6121\Assignment2_v2\Assignment2_v2\Debug\Assignment2_v2.exe
+  D:\Studies\Masters\Sem_4\DM6121\LeapSDK\lib\x64\Leap.dll
+  1 File(s) copied
